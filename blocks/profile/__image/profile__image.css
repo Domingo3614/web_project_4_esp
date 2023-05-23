@@ -1,0 +1,23 @@
+@media (min-width:320px) and (max-width:900px) {
+  .profile__image{
+    width: 9.375vw;
+    height: 9.375vw;
+    border-radius: 50%;
+  }
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .profile__image{
+    width: 9.375vw;
+    height: 9.375vw;
+    border-radius: 50%;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .profile__image{
+    width: 168.75px;
+    height: 127.5px;
+    border-radius: 50%;
+  }
+}

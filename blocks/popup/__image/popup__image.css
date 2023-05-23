@@ -1,0 +1,20 @@
+@media (min-width:320px) and (max-width:900px) {
+  .popup__image{
+    margin-left: 5%;
+    width: 90%;
+  }
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .popup__image{
+    margin-left: 5%;
+    width: 90%;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .popup__image{
+    margin-left: 5%;
+    width: 90%;
+  }
+}

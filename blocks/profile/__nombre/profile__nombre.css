@@ -1,0 +1,57 @@
+@media (min-width:320px) and (max-width:900px) {
+  .profile__nombre {
+    line-height: 1.33;
+    width: 90%;
+    font-size: 42px;
+    font-weight: 500;
+    font-family: "Inter";
+    font-style: normal;
+    text-align:start;
+    color: #FFFFFF;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .profile__nombre {
+    line-height: 1.33;
+    width: 90%;
+    font-size: 42px;
+    font-weight: 500;
+    font-family: "Inter";
+    font-style: normal;
+    text-align:start;
+    color: #FFFFFF;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .profile__nombre {
+    line-height: 1.33;
+    width: 373px;
+    height: 43px;
+    font-size: 42px;
+    font-weight: 500;
+    font-family: "Inter";
+    font-style: normal;
+    text-align:start;
+    color: #FFFFFF;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+}

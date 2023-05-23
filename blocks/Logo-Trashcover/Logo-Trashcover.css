@@ -1,0 +1,46 @@
+
+@media (min-width:320px) and (max-width:900px) {
+  .Logo-Trashcover{
+    background-image: url(../../images/Logo-Trashcover/Logo-Trashcover.svg);
+    width: 4.9vw;
+    height: 1.35vw;
+    background-size: cover;
+    margin-top: 6.38%;
+    margin-left: 88.29%;
+  }
+
+  .Logo-Trashcover:hover{
+    opacity: 50%;
+  }
+}
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .Logo-Trashcover{
+    background-image: url(../../images/Logo-Trashcover/Logo-Trashcover.svg);
+    width: 1.4vw;
+    height: 0.35vw;
+    background-size: cover;
+    margin-top: 6.38%;
+    margin-left: 88.29%;
+  }
+
+  .Logo-Trashcover:hover{
+    opacity: 50%;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .Logo-Trashcover{
+    background-image: url(../../images/Logo-Trashcover/Logo-Trashcover.svg);
+    width: 18px;
+    height: 4.49px;
+    background-size: cover;
+    margin-top: 6.38%;
+    margin-left: 88.29%;
+  }
+
+  .Logo-Trashcover:hover{
+    opacity: 50%;
+  }
+}

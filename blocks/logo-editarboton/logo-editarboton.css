@@ -1,0 +1,45 @@
+@media (min-width:320px) and (max-width:900px) {
+  .Logo-Editarboton{
+    width: 2vw;
+    height: 2vw;
+    background-image: url(../../images/Logo-Editarboton/Logo-Editarboton.svg);
+    background-size: cover;
+    border:1px solid #FFFFFF;
+    margin-right: 10vw;
+  }
+
+  .Logo-Editarboton:hover{
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    opacity: 50%;
+  }
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .Logo-Editarboton{
+    width: 1vw;
+    height: 1vw;
+    background-image: url(../../images/Logo-Editarboton/Logo-Editarboton.svg);
+    background-size: cover;
+    border:1px solid #FFFFFF;
+  }
+
+  .Logo-Editarboton:hover{
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    opacity: 50%;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .Logo-Editarboton{
+    width: 10px;
+    height: 10px;
+    background-image: url(../../images/Logo-Editarboton/Logo-Editarboton.svg);
+    background-size: cover;
+    border:1px solid #FFFFFF;
+  }
+
+  .Logo-Editarboton:hover{
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    opacity: 50%;
+  }
+}

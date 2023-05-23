@@ -1,0 +1,49 @@
+@media (min-width:320px) and (max-width:900px) {
+  .Box-Logo{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width: 11.71vw;
+    height: 6vw;
+    border:2px solid #FFFFFF;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 15%;
+  }
+
+  .Box-Logo:hover{
+    border: 2px solid rgba(255, 255, 255, 0.6);
+  }
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .Box-Logo{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width: 11.71vw;
+    height: 3.9vw;
+    border:2px solid #FFFFFF;
+    margin-left: 26%;
+  }
+
+  .Box-Logo:hover{
+    border: 2px solid rgba(255, 255, 255, 0.6);
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .Box-Logo{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    border:2px solid #FFFFFF;
+    margin-left: 26%;
+  }
+
+  .Box-Logo:hover{
+    border: 2px solid rgba(255, 255, 255, 0.6);
+  }
+}

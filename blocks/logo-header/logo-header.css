@@ -1,0 +1,35 @@
+@media (min-width:320px) and (max-width:900px) {
+  .Logo-Header{
+    width: 13.515vw;
+    height: 2.578vw;
+    margin-top: 3.52vw;
+    margin-right:auto;
+    margin-left: 15.55vw;;
+    background-image: url(../../images/Logo-Header/Logo-Header.svg);
+    background-size: cover;
+  }
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .Logo-Header{
+    width: 13.515vw;
+    height: 2.578vw;
+    margin-top: 3.52vw;
+    margin-right:auto;
+    margin-left: 15.55vw;;
+    background-image: url(../../images/Logo-Header/Logo-Header.svg);
+    background-size: cover;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .Logo-Header{
+    width: 173px;
+    height: 33px;
+    margin-top: 0px;
+    margin-right:auto;
+    margin-left: 0px;
+    background-image: url(../../images/Logo-Header/Logo-Header.svg);
+    background-size: cover;
+  }
+}

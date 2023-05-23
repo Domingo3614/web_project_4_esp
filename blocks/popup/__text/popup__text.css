@@ -1,0 +1,26 @@
+@media (min-width:320px) and (max-width:900px) {
+  .popup__text{
+    margin-top: 5%;
+    width: 90%;
+    border: none;
+    margin-left: 5%;
+  }
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .popup__text{
+    margin-top: 5%;
+    width: 90%;
+    border: none;
+    margin-left: 5%;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .popup__text{
+    margin-top: 5%;
+    width: 90%;
+    border: none;
+    margin-left: 5%;
+  }
+}

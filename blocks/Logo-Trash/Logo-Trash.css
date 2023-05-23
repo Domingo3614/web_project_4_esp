@@ -1,0 +1,46 @@
+
+@media (min-width:320px) and (max-width:900px) {
+  .Logo-Trash{
+    background-image: url(../../images/Logo-Trash/Logo-trash.svg);
+    width: 4.7vw;
+    height: 3.06vw;
+    background-size: cover;
+    margin-top: 0.1%;
+    margin-left: 88.29%;
+  }
+
+  .Logo-Trash:hover{
+    opacity: 50%;
+  }
+}
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .Logo-Trash{
+    background-image: url(../../images/Logo-Trash/Logo-trash.svg);
+    width: 1.4vw;
+    height: 1.06vw;
+    background-size: cover;
+    margin-top: 0.1%;
+    margin-left: 88.29%;
+  }
+
+  .Logo-Trash:hover{
+    opacity: 50%;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .Logo-Trash{
+    background-image: url(../../images/Logo-Trash/Logo-trash.svg);;
+    width: 15.44px;
+    height: 13.51px;
+    background-size: cover;
+    margin-top: 0.1%;
+    margin-left: 88.99%;
+  }
+
+  .Logo-Trash:hover{
+    opacity: 50%;
+  }
+}

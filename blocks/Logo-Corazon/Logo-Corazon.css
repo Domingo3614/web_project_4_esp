@@ -1,0 +1,47 @@
+@media (min-width:320px) and (max-width:900px) {
+  .Logo-Corazon{
+    background-image: url(../../images/Logo-Corazon/Logo-Corazon.svg);
+    width: 2.65vw;
+    height: 2.47vw;
+    background-size: cover;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 8%;
+  }
+
+.Logo-Corazon:hover{
+  opacity: 50%;
+}
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .Logo-Corazon{
+    background-image: url(../../images/Logo-Corazon/Logo-Corazon.svg);
+    width: 1.65vw;
+    height: 1.47vw;
+    background-size: cover;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 8%;
+  }
+
+.Logo-Corazon:hover{
+  opacity: 50%;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .Logo-Corazon{
+    background-image: url(../../images/Logo-Corazon/Logo-Corazon.svg);
+    width: 21px;
+    height: 19px;
+    background-size: cover;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 8%;
+  }
+
+.Logo-Corazon:hover{
+  opacity: 50%;
+  }
+}

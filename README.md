@@ -1,16 +1,19 @@
-# Proyecto 4: Alrededor de los Estados Unidos
+# 1. __Nombre del Proyexto__
+web_project_3_esp
 
-### Descripción general
+# 2. __Descripcion del proyecto y su funcionalidad__
+Consiste en la creacion de una interfaz para diferentes dispositivos con la intencion de poner en practica los conocimientos adquiridos durante el Sprint 3. 
 
-* Figma
-* Imágenes
+# 3. __La descripcion de las tecnicas y tecnologias utilizadas__
+En este proyecto se ha puesto en practicas diversas tecnicas aprendidas en el Sprint 3. Se pueden destacar algunas como: 
 
-**Figma**
+        *La utilizacion de <iframe> para contenidos de video.
+        * @keyframe para las animaciones.
+        *Diversas animaicones como es la rotacion de figuras.
+        *Desarrollo de una interfaz para diferentes dispositivos
 
-* [Enlace al proyecto en Figma](https://www.figma.com/file/LDMgqWesKpQkIwhOfEBuTS/WEB%2C-Sprint-5%3A-Around-The-U.S.-%7C-desktop-%2B-mobile?node-id=0%3A1)
+# 4. __Enlace Pagina__        
 
-**Imágenes**
+        *https://domingo3614.github.io/web_project_3_esp/
 
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido. 
 
-¡Esperamos que te diviertas con JavaScript!

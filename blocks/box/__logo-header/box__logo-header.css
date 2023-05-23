@@ -1,0 +1,45 @@
+/*@media (min-width:320px) and (max-width:800px) {
+  .Logo-Corazon{
+    background-image: url(../images/Logo-Corazon/Logo-Corazon.svg);
+    width: 2.65vw;
+    height: 2.47vw;
+    background-size: cover;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 8%;
+  }
+
+.Logo-Corazon:hover{
+  opacity: 50%;
+}
+}
+  
+@media (min-width:800px) and (max-width:1280px) {
+  .Logo-Corazon{
+    background-image: url(../images/Logo-Corazon/Logo-Corazon.svg);
+    width: 1.65vw;
+    height: 1.47vw;
+    background-size: cover;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 8%;
+  }
+
+.Logo-Corazon:hover{
+  opacity: 50%;
+  }
+}*/
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .box__logo-header{
+    width: 882px;
+    height: 40px;
+    margin-right:auto;
+    margin-left: auto;
+    margin-top: 3.6vw;
+    display:flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+  }
+}

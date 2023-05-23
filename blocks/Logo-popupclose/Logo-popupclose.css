@@ -1,0 +1,50 @@
+@media (min-width:320px) and (max-width:900px) {
+  .Logo-popupclose{
+    background-image: url(../../images/Close-Icon/CloseIcon.svg);
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 26px;
+    height: 26px;
+    background-size: cover;
+    background-color: black;
+    margin-left: 100%;
+    margin-top: 0%;
+  }
+
+  .Logo-popupclose:hover{
+    opacity: 0.5;
+  }
+}
+  
+@media (min-width:900px) and (max-width:1280px) {
+  .Logo-popupclose{
+    background-image: url(../../images/Close-Icon/CloseIcon.svg);
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-color: black;
+    margin-left: 100%;
+    margin-top: 0%;
+  }
+
+  .Logo-popupclose:hover{
+    opacity: 0.5;
+  }
+}
+  
+@media (min-width:1280px) and (max-width:9000px) {
+  .Logo-popupclose{
+    background-image: url(../../images/Close-Icon/CloseIcon.svg);
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-color: black;
+    margin-left: 100%;
+    margin-top: 0%;
+  }
+
+  .Logo-popupclose:hover{
+    opacity: 0.5;
+  }
+}
