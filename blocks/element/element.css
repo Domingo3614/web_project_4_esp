@@ -23,7 +23,7 @@
   }
 }
   
-@media (min-width:1280px) and (max-width:9000px) {
+@media (min-width:1280px) {
   .element{
     display: flex;
     flex-direction: column;

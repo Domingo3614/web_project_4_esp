@@ -4,20 +4,16 @@
 @import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/box/__logo-header/box__logo-header.css);
-@import url(../blocks/logo-header/logo-header.css);
 @import url(../blocks/line/line.css);
 @import url(../blocks/profile/profile.css);
 @import url(../blocks/profile/__image/profile__image.css);
 @import url(../blocks/profile/__info/profile__info.css);
 @import url(../blocks/profile/__box/profile__box.css);
 @import url(../blocks/profile/__nombre/profile__nombre.css);
-@import url(../blocks/logo-editarboton/logo-editarboton.css);
 @import url(../blocks/profile/__acercademi/profile__acercademi.css);
 @import url(../blocks/box-logo/Box-Logo.css);
-@import url(../blocks/Logo-mas/Logo-mas.css);
 @import url(../blocks/bg-modal/bg-modal.css);
 @import url(../blocks/modal/modal.css);
-@import url(../blocks/Logo-popupclose/Logo-popupclose.css);
 @import url(../blocks/popup/popup.css);
 @import url(../blocks/popup/__text-perfile/popup__text-perfile.css);
 @import url(../blocks/popup/__text/popup__text.css);
@@ -26,11 +22,17 @@
 @import url(../blocks/elements/elements.css);
 @import url(../blocks/element/element.css);
 @import url(../blocks/element/__cover/element__cover.css);
-@import url(../blocks/Logo-Trashcover/Logo-Trashcover.css);
-@import url(../blocks/Logo-Trash/Logo-Trash.css);
 @import url(../blocks/element/__bottom/element__bottom.css);
 @import url(../blocks/element/__titulo/element__titulo.css);
-@import url(../blocks/Logo-Corazon/Logo-Corazon.css);
+@import url(../blocks/box-box/box-box.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/logo/__Corazon/Logo__Corazon.css);
+@import url(../blocks/logo/__editarboton/logo__editarboton.css);
+@import url(../blocks/logo/__mas/Logo__mas.css);
+@import url(../blocks/logo/__popupclose/Logo__popupclose.css);
+@import url(../blocks/logo/__Trashcover/Logo__Trashcover.css);
+@import url(../blocks/logo/__Trash/Logo__Trash.css);
+
 
 
 

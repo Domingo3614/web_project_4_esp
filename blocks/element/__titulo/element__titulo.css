@@ -1,7 +1,7 @@
 @media (min-width:320px) and (max-width:900px) {
   .element__titulo{
     line-height: 1.2;
-    font-size: 30px;
+    font-size: 23px;
     font-weight: 900;
     font-family: "Inter";
     font-style: normal;
@@ -16,6 +16,7 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    width: 160%;
   }
 }
   
@@ -32,15 +33,16 @@
     align-items:center;
     margin-top: auto;
     margin-right: 0%;
-    margin-left: 7.5%;
+    margin-left: 6%;
     margin-bottom: auto;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    width: 160%;
   }
 }
   
-@media (min-width:1280px) and (max-width:9000px) {
+@media (min-width:1280px) {
   .element__titulo{
     width: 246px;
     height: 23px;
@@ -55,10 +57,11 @@
     align-items:center;
     margin-top: auto;
     margin-right: 0%;
-    margin-left: 7.5%;
+    margin-left: 6%;
     margin-bottom: auto;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    width: 160%;
   }
 }

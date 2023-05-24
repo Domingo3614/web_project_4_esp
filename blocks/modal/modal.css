@@ -25,7 +25,7 @@
   }
 }
   
-@media (min-width:1280px) and (max-width:9000px) {
+@media (min-width:1280px) {
   .modal{
     display:flex;
     flex-direction: column;

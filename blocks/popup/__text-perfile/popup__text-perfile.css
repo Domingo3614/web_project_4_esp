@@ -24,7 +24,7 @@
   }
 }
   
-@media (min-width:1280px) and (max-width:9000px) {
+@media (min-width:1280px) {
   .popup__text-perfil{
     width: 90%;
     margin-top: 5%;

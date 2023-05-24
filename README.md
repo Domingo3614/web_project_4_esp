@@ -14,3 +14,6 @@ En este proyecto se ha puesto en practicas diversas tecnicas aprendidas en el Sp
         *https://domingo3614.github.io/web_project_4_esp/
 
 
+        !Não tenho acesso ao formato mobile da página. Não sei suas dimensões.!
+
+

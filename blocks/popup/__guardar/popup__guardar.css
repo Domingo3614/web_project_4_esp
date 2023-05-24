@@ -44,7 +44,7 @@
   }
 }
   
-@media (min-width:1280px) and (max-width:9000px) {
+@media (min-width:1280px) {
   .popup__guardar{
     width: 358px;
     height: 50px;

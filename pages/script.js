@@ -1,8 +1,9 @@
 
 
-const btnAbrirModal = document.querySelector(".Logo-Editarboton");
-const btnCerrarModal = document.querySelector(".Logo-popupclose");
+const btnAbrirModal = document.querySelector(".logo__editarboton");
+const btnCerrarModal = document.querySelector(".Logo__popupclose");
 const modal = document.querySelector(".bg-modal");
+const btnGuardarModal = document.querySelector(".popup__guardar");
 
 
 btnAbrirModal.addEventListener("click",
@@ -16,6 +17,11 @@ function() {
  modal.style.display = "none";   
 });
 
+btnGuardarModal.addEventListener("click",
+function() {
+ modal.style.display = "none";   
+});
+
 
 window.addEventListener("click",function(event) {
     if (event.target == modal) {
@@ -23,13 +29,13 @@ window.addEventListener("click",function(event) {
     }
 });
 
-/*const addprofile = document.getElementById(".profile__box");*/
+
 const form = document.querySelector(".popup__form");
 const profileName = document.querySelector('.profile__nombre');
 const profileVida = document.querySelector('.profile__acercademi');
 const inputName = document.querySelector('.popup__text_nombre');
 const inputVida = document.querySelector('.popup__text_vida');
-/*const addButton = document.querySelector(".popup__guardar");*/
+
 
 
 function handleFormSubmit(event) {

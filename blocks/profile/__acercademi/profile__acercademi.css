@@ -1,7 +1,7 @@
 @media (min-width:320px) and (max-width:900px) {
   .profile__acercademi {
     line-height: 1.22;
-    width: 100%;
+    width: 90%;
     font-size: 18px;
     font-weight: 400;
     font-family: "Inter";
@@ -11,6 +11,7 @@
     margin-top: 0%;
     margin-right: 0%;
     margin-bottom: 0%;
+    margin-left: 17%;
   }
 }
   
@@ -30,7 +31,7 @@
   }
 }
   
-@media (min-width:1280px) and (max-width:9000px) {
+@media (min-width:1280px) {
   .profile__acercademi {
     line-height: 1.22;
     width: 100%;
