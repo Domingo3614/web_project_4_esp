@@ -1,6 +1,17 @@
+
+.Line{
+  width: 882px;
+  margin-top: 3.2vw;
+  margin-right:auto;
+  margin-left: auto;
+  opacity: 0.7;
+  border: 1px solid #545454;
+}
+
+
 @media (min-width:320px) and (max-width:900px) {
   .Line{
-    width: 68.9vw;
+    width: 100vw;
     margin-top: 3.2vw;
     margin-right:auto;
     margin-left: auto;
@@ -20,13 +31,5 @@
   }
 }
   
-@media (min-width:1280px) {
-  .Line{
-    width: 882px;
-    margin-top: 3.2vw;
-    margin-right:auto;
-    margin-left: auto;
-    opacity: 0.7;
-    border: 1px solid #545454;
-  }
-}
+
+ 

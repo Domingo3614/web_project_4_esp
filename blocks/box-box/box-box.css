@@ -5,15 +5,15 @@
     display:flex;
     justify-content:center;
     align-items: center;
-    width: 100%;
+    width: 50%;
     height: 100%;
-    border:2px solid #FFFFFF;
+    /*border:2px solid #FFFFFF;*/
     justify-content:center;
     align-items: center;
   }
 
   .box-box:hover{
-    border: 2px solid rgba(255, 255, 255, 0.6);
+    /*border: 2px solid rgba(255, 255, 255, 0.6);*/
   }
 }
   

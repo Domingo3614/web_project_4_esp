@@ -1,3 +1,20 @@
+
+.Logo__Corazon{
+  background-image: url(../../../images/Logo-Corazon/Logo-Corazon.svg);
+  width: 21px;
+  height: 19px;
+  background-size: cover;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 8%;
+  margin-left: 70%;
+}
+
+.Logo__Corazon:hover{
+opacity: 50%;
+}
+
+
 @media (min-width:320px) and (max-width:900px) {
   .Logo__Corazon{
     background-image: url(../../../images/Logo-Corazon/Logo-Corazon.svg);
@@ -23,7 +40,6 @@
     margin-top: auto;
     margin-bottom: auto;
     margin-right: 8%;
-    z-index: 5;
     margin-left: 70%;
   }
 
@@ -32,19 +48,5 @@
   }
 }
   
-@media (min-width:1280px) {
-  .Logo__Corazon{
-    background-image: url(../../../images/Logo-Corazon/Logo-Corazon.svg);
-    width: 21px;
-    height: 19px;
-    background-size: cover;
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-right: 8%;
-    margin-left: 70%;
-  }
 
-.Logo__Corazon:hover{
-  opacity: 50%;
-  }
-}
+  

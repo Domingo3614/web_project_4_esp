@@ -1,8 +1,23 @@
+
+.profile{
+  width: 882px;
+  height: 120px;
+  margin-top: 3.125vw;
+  margin-right:auto;
+  margin-left: auto;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+
 @media (min-width:320px) and (max-width:900px) {
   .profile{
     width: 68.9vw;
     height: 9.375vw;
-    margin-top: 3.125vw;
+    margin-top: 4.125vw;
     margin-right:auto;
     margin-left: auto;
     display:flex;
@@ -16,7 +31,7 @@
   .profile{
     width: 68.9vw;
     height: 9.375vw;
-    margin-top: 3.125vw;
+    margin-top: 5.125vw;
     margin-right:auto;
     margin-left: auto;
     display:flex;
@@ -27,17 +42,5 @@
   }
 }
   
-@media (min-width:1280px) {
-  .profile{
-    width: 882px;
-    height: 120px;
-    margin-top: 3.125vw;
-    margin-right:auto;
-    margin-left: auto;
-    display:flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 30px;
-  }
-}
+
+  

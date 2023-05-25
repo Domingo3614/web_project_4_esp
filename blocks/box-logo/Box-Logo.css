@@ -1,6 +1,24 @@
+
+.Box-Logo{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  width: 150px;
+  height: 50px;
+  border:2px solid #FFFFFF;
+  margin-left: 0%;
+}
+
+.Box-Logo:hover{
+  border: 2px solid rgba(255, 255, 255, 0.6);
+}
+
+
+
 @media (min-width:320px) and (max-width:900px) {
   .Box-Logo{
     display:flex;
+    /*border:2px solid #FFFFFF;*/
     justify-content:center;
     align-items: center;
     width: 100%;
@@ -26,19 +44,5 @@
     border: 2px solid rgba(255, 255, 255, 0.6);
   }
 }
-  
-@media (min-width:1280px) {
-  .Box-Logo{
-    display:flex;
-    justify-content:center;
-    align-items: center;
-    width: 150px;
-    height: 50px;
-    border:2px solid #FFFFFF;
-    margin-left: 0%;
-  }
-
-  .Box-Logo:hover{
-    border: 2px solid rgba(255, 255, 255, 0.6);
-  }
-}
+ 
+ 

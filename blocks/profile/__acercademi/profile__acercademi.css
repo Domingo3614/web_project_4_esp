@@ -1,3 +1,19 @@
+
+.profile__acercademi {
+  line-height: 1.22;
+  width: 100%;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Inter";
+  font-style: normal;
+  text-align:start;
+  color: #FFFFFF;
+  margin-top: 15px;
+  margin-right: 0%;
+  margin-bottom: 0%;
+}
+
+
 @media (min-width:320px) and (max-width:900px) {
   .profile__acercademi {
     line-height: 1.22;
@@ -25,24 +41,11 @@
     font-style: normal;
     text-align:start;
     color: #FFFFFF;
-    margin-top: 0%;
+    margin-top: 5%;
     margin-right: 0%;
     margin-bottom: 0%;
   }
 }
   
-@media (min-width:1280px) {
-  .profile__acercademi {
-    line-height: 1.22;
-    width: 100%;
-    font-size: 18px;
-    font-weight: 400;
-    font-family: "Inter";
-    font-style: normal;
-    text-align:start;
-    color: #FFFFFF;
-    margin-top: 15px;
-    margin-right: 0%;
-    margin-bottom: 0%;
-  }
-}
+
+  

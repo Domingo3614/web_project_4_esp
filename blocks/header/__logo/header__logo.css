@@ -1,3 +1,14 @@
+
+.header__logo{
+  width: 173px;
+  height: 33px;
+  margin-top: 0px;
+  margin-right:auto;
+  margin-left: 0px;
+  background-image: url(../../../images/Logo-Header/Logo-Header.svg);
+  background-size: cover;
+}
+
 @media (min-width:320px) and (max-width:900px) {
   .header__logo{
     width: 20vw;
@@ -21,15 +32,5 @@
     background-size: cover;
   }
 }
+ 
   
-@media (min-width:1280px) {
-  .header__logo{
-    width: 173px;
-    height: 33px;
-    margin-top: 0px;
-    margin-right:auto;
-    margin-left: 0px;
-    background-image: url(../../../images/Logo-Header/Logo-Header.svg);
-    background-size: cover;
-  }
-}

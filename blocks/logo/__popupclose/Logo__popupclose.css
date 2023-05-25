@@ -1,3 +1,22 @@
+
+
+
+.Logo__popupclose{
+  background-image: url(../../../images/Close-Icon/CloseIcon.svg);
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 40px;
+  height: 40px;
+  background-size: cover;
+  background-color: black;
+  margin-left: 100%;
+  margin-top: 0%;
+}
+
+.Logo__popupclose:hover{
+  opacity: 0.5;
+}
+
+
 @media (min-width:320px) and (max-width:900px) {
   .Logo__popupclose{
     background-image: url(../../../images/Close-Icon/CloseIcon.svg);
@@ -32,7 +51,7 @@
   }
 }
   
-@media (min-width:1280px) {
+
   .Logo__popupclose{
     background-image: url(../../../images/Close-Icon/CloseIcon.svg);
     background-color: rgba(0, 0, 0, 0.5);
@@ -47,4 +66,3 @@
   .Logo__popupclose:hover{
     opacity: 0.5;
   }
-}

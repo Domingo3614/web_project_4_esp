@@ -1,4 +1,18 @@
 
+.Logo__Trashcover{
+  background-image: url(../../../images/Logo-Trashcover/Logo-Trashcover.svg);
+  width: 18px;
+  height: 4.49px;
+  background-size: cover;
+  margin-top: 6.38%;
+  margin-left: 88.29%;
+}
+
+.Logo__Trashcover:hover{
+  opacity: 50%;
+}
+
+
 @media (min-width:320px) and (max-width:900px) {
   .Logo__Trashcover{
     background-image: url(../../../images/Logo-Trashcover/Logo-Trashcover.svg);
@@ -29,17 +43,6 @@
   }
 }
   
-@media (min-width:1280px) {
-  .Logo__Trashcover{
-    background-image: url(../../../images/Logo-Trashcover/Logo-Trashcover.svg);
-    width: 18px;
-    height: 4.49px;
-    background-size: cover;
-    margin-top: 6.38%;
-    margin-left: 88.29%;
-  }
 
-  .Logo__Trashcover:hover{
-    opacity: 50%;
-  }
-}
+ 
+
